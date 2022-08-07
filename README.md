@@ -1,16 +1,33 @@
-### Hi there 👋
+# Edilson Pateguana
 
-<!--
-**edilson258/edilson258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desevolvedor FullStack
 
-Here are some ideas to get you started:
+Entusiasmado pelas tecnologias web, principalmente em Django, ReactJs e a stack MEN.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Em oque estou trabalhando?
+Actualmente trabalho mais com o lado front usando as seguintes tecnologias
+* ReactJs
+* Bootstrap
+* Firebase
+* Typescript
+
+### Oque estou estudando?
+Com o surgimento de diversas tecnologias legais e exóticas fica complicado focar-se nos estudos, porem, os meus esforços estão em
+* NextJs (prioridade) 
+* CMS (Content Management Systems) 
+* GrapthQl (Apollo)
+* Tailwind CSS
+* MEN stack
+#### as vezes & oque pretendo estudar
+* PWA (Progressive Web Apps)
+* Arquitectura de Software
+* AWS ecosystem 
+
+### Oque mais faço além da programação? 
+* Produzindo coteudo relacionado a programação 
+para o canal [Termux Pro Tips](https://youtube.com/channel/UCVDeYactQCJNymRMC-CYHlw) 
+
+### Oque estou de olho?
+* Web 3.0
+* crypto moedas
+* Mr. Beast (kkk) 
