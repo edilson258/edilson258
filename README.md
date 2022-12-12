@@ -1,23 +1,23 @@
 # Edilson Pateguana
 
-Desevolvedor Frontend (ReactJs)
+Desevolvedor Frontend
 
 Entusiasmado pelas tecnologias web, principalmente em ReactJs e a stack MEN.
 
 ### Em oque estou trabalhando?
 Actualmente trabalho mais as seguintes tecnologias
 * ReactJs
+* NextJs
 * Bootstrap
+* Tailwindcss
 * Firebase
 * Typescript
 
 ### Oque estou estudando?
 Com o surgimento de diversas tecnologias legais e exóticas fica complicado focar-se nos estudos, porem, os meus esforços estão em
-* NextJs
 * CMS (Content Management Systems) 
-* GrapthQl (Apollo)
-* Tailwind CSS
-* MEN stack
+* GrapthQl
+
 #### as vezes & oque pretendo estudar
 * PWA (Progressive Web Apps)
 * Arquitectura de Software
@@ -29,4 +29,3 @@ para o canal [Edilson The Hacker](https://youtube.com/channel/UC4u84vnyot6b5kAFS
 
 ### Oque estou de olho?
 * Web 3.0
-* Nextjs v13
