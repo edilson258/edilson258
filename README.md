@@ -5,8 +5,7 @@ Desevolvedor Frontend
 Entusiasmado pelas tecnologias web, principalmente em ReactJs e a stack MEN.
 
 ### Em oque estou trabalhando?
-Actualmente trabalho mais as seguintes tecnologias
-* ReactJs
+Actualmente trabalho mais com as seguintes tecnologias
 * NextJs
 * Bootstrap
 * Tailwindcss
