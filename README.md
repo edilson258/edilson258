@@ -10,6 +10,7 @@ Actualmente trabalho mais com as seguintes tecnologias
 * Tailwindcss
 * Firebase
 * Typescript
+* Zod
 
 ### Oque estou estudando?
 Com o surgimento de diversas tecnologias legais e exóticas fica complicado focar-se nos estudos, porem, os meus esforços estão em
