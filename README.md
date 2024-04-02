@@ -1,30 +1,13 @@
-# Edilson Pateguana
+i'm 
+# System Engineer
 
-Desevolvedor Frontend
+Low-level systems engineer specialized in language design, ARMv8 assembly, Rust, and C lang. Experienced in implementing parsers for both language and binary formats. Passionate about optimizing code for performance and efficiency.
 
-Entusiasmado pelas tecnologias web, principalmente em ReactJs e a stack MEN.
+My Recent works include `Rusvm` which is a project written entirely from scratch in Rust that parses a Java Class File and extract all relevant information such as methods, class flags and attributes, constant pool layout, unpacking java `byte code` instructions and more.
 
-### Em oque estou trabalhando?
-Actualmente trabalho mais com as seguintes tecnologias
-* NextJs
-* Tailwindcss
-* Firebase
-* Typescript
-* Zod
+## Why Low Level Stuff?
 
-### Oque estou estudando?
-Com o surgimento de diversas tecnologias legais e exóticas fica complicado focar-se nos estudos, porem, os meus esforços estão em
-* CMS (Content Management Systems) 
-* GrapthQl
+The short answer is: I can't build a decent UI, doesn't matter how many times i try (believe me, i tried a lot). Nowadays there lots of web devs and i wanted to do something different.
 
-#### as vezes & oque pretendo estudar
-* PWA (Progressive Web Apps)
-* Arquitectura de Software
-* AWS ecosystem 
-
-### Oque mais faço além da programação? 
-* Produzindo coteudo relacionado a programação 
-para o canal [Edilson The Hacker](https://youtube.com/channel/UC4u84vnyot6b5kAFS2bgjUA)
-
-### Oque estou de olho?
-* Web 3.0
+## And...
+I think my project will speak for myself. I hope you will enjoy it!
