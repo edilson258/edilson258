@@ -1,13 +1,11 @@
-i'm 
-# System Engineer
+# A Low Level Guy
 
-Low-level systems engineer specialized in language design, ARMv8 assembly, Rust, and C lang. Experienced in implementing parsers for both language and binary formats. Passionate about optimizing code for performance and efficiency.
+I am a Systems Engineer with a specialization in low-level design, ARMv8 assembly, Rust, and C lang. My expertise lies in crafting languages, implementing analyzers for language and binary formats, and optimizing code for performance and efficiency.
 
-My Recent works include `Rusvm` which is a project written entirely from scratch in Rust that parses a Java Class File and extract all relevant information such as methods, class flags and attributes, constant pool layout, unpacking java `byte code` instructions and more.
+My recent endeavors include [RusVM](https://github.com/edilson258/rusvm), a Rust project meticulously crafted from scratch. `Rusvm` seamlessly parses Java class files, extracting vital information such as methods, flags, class attributes, constant pool layout, Java bytecode instruction decoding, and more.
 
-## Why Low Level Stuff?
-
-The short answer is: I can't build a decent UI, doesn't matter how many times i try (believe me, i tried a lot). Nowadays there lots of web devs and i wanted to do something different.
+## why low level?
+You may wonder why I delve into the realm of low-level intricacies. In essence, my affinity stems from a relentless pursuit of challenges. Despite numerous attempts, crafting a polished UI remains elusive. In a landscape dominated by web developers, I seek differentiation and thrive on pushing the boundaries of what's possible.
 
 ## And...
-I think my project will speak for myself. I hope you will enjoy it!
+I believe my projects serve as a testament to my capabilities and dedication. I trust you'll find them both impressive and compelling.
