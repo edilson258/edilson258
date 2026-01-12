@@ -26,7 +26,6 @@
 
 - <b>Filipe</b>: Educational purpose interpreter in Rust [here](https://github.com/edilson258/filipe)
 
-### Tech Stack
 
 ### Get in touch
 
