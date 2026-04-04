@@ -16,29 +16,37 @@ I am a **Platform/SRE/DevOps and Backend Engineer** with a passion for building 
 | **Backend & Messaging** | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) |
 | **Data & Patterns** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) **CQRS** \| **Event-Driven** \| **Microservices** |
 
----
+### 💼 Experience
 
-### 💼 Professional Journey
+#### **VOID - Tecnologia e Comunicação**
+*   **DevOps Engineer** | Full-time | Jan 2026 - Present · 4 mos | On-site
+    *   Built and maintained CI/CD pipelines (Bitbucket), reducing developers build and delivery time;
+    *   Defined and enforced branch access policies, ensuring secure and compliant Git workflows;
+    *   Created an internal developer platform, enhancing developer experience and boosting productivity;
+    *   Maintained and operated Kubernetes clusters across development, staging, and production environments.
+    *   Deployed and maintained a Grafana-centered observability stack, streamlining incident detection and troubleshooting workflows.
+*   **Backend developer** | Sep 2025 - Jan 2026 · 5 mos
+    *   Designed and implemented pipeline and AI-driven engines in python to process large satellite imagery;
+    *   Optimized object detection models (using PyTorch) for reliable coconut detection, even under low-resolution satellite imaging constraints;
+    *   Implemented complex APIs to feed time series dashboards while interacting with legacy systems and different platforms such as web and mobile.
 
-- **VOID - Tecnologia e Comunicação** | **Maputo, Mozambique**
-    - **DevOps Engineer** | *Jan 2026 – Present*
-        - Built and maintained GitOps CI/CD pipelines, reducing delivery lead times.
-        - Managed multi-environment K8s clusters and deployed Grafana-centered observability.
-        - Developed an Internal Developer Platform (IDP) to boost engineering productivity.
-    - **Backend Developer** | *Sep 2025 – Jan 2026*
-        - Optimized AI-driven engines (PyTorch) for large-scale satellite imagery processing.
-        - Implemented complex APIs for time-series dashboards and legacy system integration.
+#### **Deno**
+*   **Open Source Developer** | Part-time | Mar 2025 - Sep 2025 · 7 mos | Remote
+    *   Implemented SQLite backup capability enhancing Node.js compatibility;
+    *   Implemented multi-package uninstall feature in the CLI for improved usability;
+    *   Fixed deep object comparison bugs, enhancing correctness and system stability;
+    *   Improved environment variable reloading during watch mode for smoother developer workflow.
 
-- **Deno** | **Open Source Developer** | *Mar 2025 – Sep 2025*
-    - Enhanced Node.js compatibility by implementing SQLite backup capabilities.
-    - Improved CLI usability (multi-package uninstall) and watch-mode environment reloading.
+#### **Freelance**
+*   **Full-stack Developer** | Jul 2023 - Sep 2025 · 2 yrs 3 mos | Remote
+    *   Developed and maintained different types of software ensuring performance and availability delivering real values and best user experience.
 
-- **DSAI For Moz** | **Backend Developer** | *Dec 2024 – Jul 2025*
-    - Adopted modern Python stacks (FastAPI, SQLAlchemy) with SOLID architectural principles.
-    - containerized services and automated testing/deployment pipelines.
-
-- **Freelance** | **Full-stack Developer** | *Jul 2023 – Sep 2025*
-    - Delivered end-to-end web applications ensuring high performance and availability.
+#### **DSAI For Moz**
+*   **Backend Developer** | Part-time | Dec 2024 - Jul 2025 · 8 mos | Remote
+    *   Evaluated and adopted modern Python stack (FastAPI, Pydantic, SQLAlchemy) with scalable architecture principles;
+    *   Built production-ready RESTful APIs with modular, SOLID-based design and automated testing;
+    *   Implemented Docker containerization and CI/CD pipelines for automated builds, testing, and deployment;
+    *   Improved system scalability, reliability, and speed of feature delivery.
 
 ---
 
