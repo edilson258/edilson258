@@ -91,6 +91,4 @@ Building expertise in: **Infrastructure as Code** (Terraform, Pulumi), **Ansible
 
 ---
 
-> "In financial systems, precision isn’t just nice, it's integrity." — *On why JS numbers aren't for money.*
->
 > "Engineering is the closest thing to magic that exists in the world." — *Elon Musk*
