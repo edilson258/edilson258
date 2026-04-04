@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Edilson Pateguana
 
-### Platform Engineer | Web Tooling | DX 🚀
+### Platform Engineer | Web Tooling | DX
 
 I am a **Platform/SRE/DevOps and Backend Engineer** with a passion for building scalable distributed systems and high-performance web tooling. With hands-on experience in cloud infrastructure, container orchestration, and CI/CD pipelines, I thrive in agile environments where I can bridge the gap between infrastructure and application logic.
 
