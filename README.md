@@ -87,7 +87,7 @@ Building expertise in: **Infrastructure as Code** (Terraform, Pulumi), **Ansible
 
 - 💼 **LinkedIn**: [in/edilson258](https://www.linkedin.com/in/edilson258)
 - 📍 **Location**: Maputo, Mozambique 🇲🇿
-- ✉️ **Email**: [Available on Request]
+- ✉️ **Email**: [devops.edilson@outlook.com](mailto:devops.edilson@outlook.com)
 
 ---
 
