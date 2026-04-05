@@ -50,18 +50,6 @@ I am a **Platform/SRE/DevOps and Backend Engineer** with a passion for building 
 
 ---
 
-### 🌟 Featured Engineering
-
-| Project | Description | Stars |
-| :--- | :--- | :--- |
-| **[filipe](https://github.com/edilson258/filipe)** | Statically typed programming language powered by Rust. | ⭐ 18 |
-| **[Falcon](https://github.com/edilson258/falcon)** | C++ HTTP framework leveraging `libuv`, `llhttp`, and `simdjson`. | ⭐ (Dev) |
-| **[alpha](https://github.com/edilson258/alpha)** | High-performance C web server framework. | ⭐ 2 |
-| **[google](https://github.com/edilson258/google)** | Local search engine with TF-IDF implementation in Go. | ⭐ 2 |
-| **[short](https://github.com/edilson258/short)** | Modern Next.js 13 URL shortener. | ⭐ 6 |
-
----
-
 ### 🔭 Research Lab & Interests
 
 Beyond commercial work, I dive deep into systems programming and performance engineering:
