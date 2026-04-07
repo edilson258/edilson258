@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Edilson Pateguana
 
-### Platform Engineer | Web Tooling | DX
+## Platform Engineer | Web Tooling | DX
 
+<p align="justify">
 I am a **Platform/SRE/DevOps and Backend Engineer** with a passion for building scalable distributed systems and high-performance web tooling. With hands-on experience in cloud infrastructure, container orchestration, and CI/CD pipelines, I thrive in agile environments where I can bridge the gap between infrastructure and application logic.
+</p>
 
 ---
 
-### 🛠️ Technical Ecosystem
+## 🛠️ Technical Ecosystem
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -16,62 +18,84 @@ I am a **Platform/SRE/DevOps and Backend Engineer** with a passion for building 
 | **Backend & Messaging** | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) |
 | **Data & Patterns** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) **CQRS** \| **Event-Driven** \| **Microservices** |
 
-### 💼 Experience
+## 💼 Experience
 
-#### **VOID - Tecnologia e Comunicação**
-*   **DevOps Engineer** | Full-time | Jan 2026 - Present · 4 mos | On-site
-    *   Built and maintained CI/CD pipelines (Bitbucket), reducing developers build and delivery time;
-    *   Defined and enforced branch access policies, ensuring secure and compliant Git workflows;
-    *   Created an internal developer platform, enhancing developer experience and boosting productivity;
-    *   Maintained and operated Kubernetes clusters across development, staging, and production environments.
-    *   Deployed and maintained a Grafana-centered observability stack, streamlining incident detection and troubleshooting workflows.
-*   **Backend developer** | Sep 2025 - Jan 2026 · 5 mos
-    *   Designed and implemented pipeline and AI-driven engines in python to process large satellite imagery;
-    *   Optimized object detection models (using PyTorch) for reliable coconut detection, even under low-resolution satellite imaging constraints;
-    *   Implemented complex APIs to feed time series dashboards while interacting with legacy systems and different platforms such as web and mobile.
+### **VOID - Tecnologia e Comunicação**
 
-#### **Deno**
-*   **Open Source Developer** | Part-time | Mar 2025 - Sep 2025 · 7 mos | Remote
-    *   Implemented SQLite backup capability enhancing Node.js compatibility;
-    *   Implemented multi-package uninstall feature in the CLI for improved usability;
-    *   Fixed deep object comparison bugs, enhancing correctness and system stability;
-    *   Improved environment variable reloading during watch mode for smoother developer workflow.
+**DevOps Engineer** | Full-time | Jan 2026 - Present · 4 mos | On-site
 
-#### **Freelance**
-*   **Full-stack Developer** | Jul 2023 - Sep 2025 · 2 yrs 3 mos | Remote
-    *   Developed and maintained different types of software ensuring performance and availability delivering real values and best user experience.
+<p align="justify">
+As a DevOps Engineer at VOID, I focused on building and maintaining robust CI/CD pipelines (Bitbucket), reducing build and delivery times for the development team. I also defined and enforced secure Git workflows through branch access policies and created an internal developer platform that significantly boosted productivity. Beyond CI/CD, I operated Kubernetes clusters across all environments and deployed a Grafana-centered observability stack for efficient incident detection.
+</p>
 
-#### **DSAI For Moz**
-*   **Backend Developer** | Part-time | Dec 2024 - Jul 2025 · 8 mos | Remote
-    *   Evaluated and adopted modern Python stack (FastAPI, Pydantic, SQLAlchemy) with scalable architecture principles;
-    *   Built production-ready RESTful APIs with modular, SOLID-based design and automated testing;
-    *   Implemented Docker containerization and CI/CD pipelines for automated builds, testing, and deployment;
-    *   Improved system scalability, reliability, and speed of feature delivery.
+**Backend developer** | Sep 2025 - Jan 2026 · 5 mos
+
+<p align="justify">
+Previously, as a Backend Developer, I designed AI-driven pipelines in Python for processing large-scale satellite imagery and optimized object detection models using PyTorch for reliable results under resolution constraints. I also implemented complex APIs to feed time-series dashboards while integrating with legacy and multi-platform systems.
+</p>
+
+### **Deno**
+
+**Open Source Developer** | Part-time | Mar 2025 - Sep 2025 · 7 mos | Remote
+
+<p align="justify">
+In my role as an Open Source Developer for Deno, I contributed to improving Node.js compatibility and the Deno CLI's overall usability. I implemented critical features like the SQLite backup capability ([PR #29842](https://github.com/denoland/deno/pull/29842)) and resolved task name conflicts within the CLI ([PR #29538](https://github.com/denoland/deno/pull/29538)). My work also involved fixing deep object comparison bugs in `node/assert` ([PR #29428](https://github.com/denoland/deno/pull/29428)), improving multi-package uninstall features, and enhancing environment variable reloading during watch mode to create a smoother developer experience.
+</p>
+
+### **Node.js**
+
+**Open Source Contributor** | Ongoing | Remote
+
+<p align="justify">
+As an Open Source Contributor to the Node.js core, I am actively exploring the system's architecture and improving its built-in tooling. My contributions include fixing incorrect signal exit codes in the Node.js test runner ([PR #62039](https://github.com/nodejs/node/pull/62039)) and ensuring the test runner provides consistent feedback across different operating system platforms.
+</p>
+
+### **Freelance**
+
+**Full-stack Developer** | Jul 2023 - Sep 2025 · 2 yrs 3 mos | Remote
+
+<p align="justify">
+As a Full-stack Developer, I have partnered with various clients to develop and maintain high-performance software solutions. My focus has always been on delivering real value through optimized systems that ensure high availability and a seamless user experience across a variety of web applications.
+</p>
+
+### **DSAI For Moz**
+
+**Backend Developer** | Part-time | Dec 2024 - Jul 2025 · 8 mos | Remote
+
+<p align="justify">
+During my time at DSAI For Moz, I evaluated and adopted a modern Python ecosystem (FastAPI, Pydantic, SQLAlchemy) following scalable architecture and SOLID design principles. I built production-ready RESTful APIs with automated testing and implemented Docker-based containerization along with CI/CD pipelines for automated builds and deployments. This approach significantly improved system scalability, reliability, and the overall speed of feature delivery.
+</p>
 
 ---
 
-### 🔭 Research Lab & Interests
+## 🔭 Research Lab & Interests
 
+<p align="justify">
 Beyond commercial work, I dive deep into systems programming and performance engineering:
+</p>
+
 - **Low-Level Tools**: Exploring compilers, custom virtual machines ([rusvm](https://github.com/edilson258/rusvm)), and raw sockets on TCP.
 - **Web Tooling**: Passionate about Developer Experience (DX) and fault-tolerant system design inspired by Erlang/BEAM.
 - **Open Source**: Ongoing contributions to **Deno** and exploring the **Node.js** core.
 
 ---
 
-### 🚀 Currently Exploring
+## 🚀 Currently Exploring
+
+<p align="justify">
 Building expertise in: **Infrastructure as Code** (Terraform, Pulumi), **Ansible**, **Azure**, **SecOps**, **Virtualization**, and **Network Function Virtualization (NFV)**.
+</p>
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 ![Edilson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edilson258&show_icons=true&theme=nord)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edilson258&layout=compact&theme=nord)
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 - 💼 **LinkedIn**: [in/edilson258](https://www.linkedin.com/in/edilson258)
 - 📍 **Location**: Maputo, Mozambique 🇲🇿
