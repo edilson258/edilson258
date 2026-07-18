@@ -17,18 +17,6 @@ Almost a decade delivering systems at scale, I build services that ship reliably
 
 ---
 
-## Professional Experience
-
-**VOID - Tecnologia e Comunicação | Senior Backend and DevOps Engineer**
-
-**DSAI4MOZ | Data Engineer**
-
-**Node.js & Deno | Open-Source Developer**
-
-**MINDERA | Specialist Software Engineer**
-
----
-
 ## Connect
 
 - **LinkedIn:** [in/edilson258](https://www.linkedin.com/in/edilson258)
