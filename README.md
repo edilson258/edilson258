@@ -2,12 +2,6 @@
 
 ## Backend & DevOps Engineer
 
-Almost a decade delivering systems at scale, I build services that ship reliably and stay easy to maintain as complexity grows. I work across the full lifecycle from distributed service design and cloud-native infrastructure to automated delivery and production observability. Keeping platforms stable, performant, and resilient as they evolve is my core focus. I also contribute to open-source software that powers the modern web.
-
----
-
-## Technical Skills
-
 - **Languages:** Python, TypeScript, Java, C/C++, Rust
 - **Frameworks & Libraries:** NestJS, FastAPI, Django, Express, TypeORM, Prisma
 - **Databases & Messaging:** PostgreSQL, MongoDB, Redis, RabbitMQ
